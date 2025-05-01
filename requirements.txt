@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+pandas>=1.5.0
+requests>=2.28.0
+pytz>=2023.3
+altair>=4.2.0
+python-dateutil>=2.8.2
